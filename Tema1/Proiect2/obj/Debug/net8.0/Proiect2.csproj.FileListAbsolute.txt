@@ -1,0 +1,14 @@
+C:\Users\catal\Desktop\Info\TAP\Tema1\Proiect2\bin\Debug\net8.0\Proiect2.exe
+C:\Users\catal\Desktop\Info\TAP\Tema1\Proiect2\bin\Debug\net8.0\Proiect2.deps.json
+C:\Users\catal\Desktop\Info\TAP\Tema1\Proiect2\bin\Debug\net8.0\Proiect2.runtimeconfig.json
+C:\Users\catal\Desktop\Info\TAP\Tema1\Proiect2\bin\Debug\net8.0\Proiect2.dll
+C:\Users\catal\Desktop\Info\TAP\Tema1\Proiect2\bin\Debug\net8.0\Proiect2.pdb
+C:\Users\catal\Desktop\Info\TAP\Tema1\Proiect2\obj\Debug\net8.0\Proiect2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\catal\Desktop\Info\TAP\Tema1\Proiect2\obj\Debug\net8.0\Proiect2.AssemblyInfoInputs.cache
+C:\Users\catal\Desktop\Info\TAP\Tema1\Proiect2\obj\Debug\net8.0\Proiect2.AssemblyInfo.cs
+C:\Users\catal\Desktop\Info\TAP\Tema1\Proiect2\obj\Debug\net8.0\Proiect2.csproj.CoreCompileInputs.cache
+C:\Users\catal\Desktop\Info\TAP\Tema1\Proiect2\obj\Debug\net8.0\Proiect2.dll
+C:\Users\catal\Desktop\Info\TAP\Tema1\Proiect2\obj\Debug\net8.0\refint\Proiect2.dll
+C:\Users\catal\Desktop\Info\TAP\Tema1\Proiect2\obj\Debug\net8.0\Proiect2.pdb
+C:\Users\catal\Desktop\Info\TAP\Tema1\Proiect2\obj\Debug\net8.0\Proiect2.genruntimeconfig.cache
+C:\Users\catal\Desktop\Info\TAP\Tema1\Proiect2\obj\Debug\net8.0\ref\Proiect2.dll
