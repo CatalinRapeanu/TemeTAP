@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "nqC0vuOfdMsJUM/K3+FNXlXS/NSz/99pJDoHRlBF3eJy19JRmMfRMirYnuq4j1Erg99p19Z7w/GAdOh2o84tyg==",
+  "success": true,
+  "projectFilePath": "/home/catalin/Documents/TAP/Tema2/tap-tema2-codebase/Tema2Console/Tema2Console.csproj",
+  "expectedPackageFiles": [
+    "/home/catalin/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

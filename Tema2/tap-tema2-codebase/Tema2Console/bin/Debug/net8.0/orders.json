@@ -1,0 +1,32 @@
+[
+  {
+    "Type": "Room",
+    "Quantity": 2,
+    "Price": 250,
+    "ReservationDate": "10-05-2024"
+  },
+  {
+    "Type": "Product",
+    "ProductName": "Cola",
+    "ProductQuantity": 3,
+    "ProductPrice": 5
+  },
+  {
+    "Type": "Breakfast",
+    "BreakfastQuantity": 2,
+    "BreakfastPrice": 25,
+    "BreakfastServingDate": "11-03-2024"
+  },
+  {
+    "Type": "Lunch",
+    "LunchQuantity": 1,
+    "LunchPrice": 30,
+    "LunchServingDate": "11-03-2024"
+  },
+  {
+    "Type": "Dinner",
+    "DinnerQuantity": 2,
+    "DinnerPrice": 50,
+    "DinnerServingDate": "12-03-2024"
+  }
+]
