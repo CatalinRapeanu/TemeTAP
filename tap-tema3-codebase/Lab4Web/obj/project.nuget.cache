@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "UX+XdDR4W8dgGeCTPSqbyL/G2YoEmpvxgS93cgunNJsFCQxuqDaS06d/rX2pa0WbQEZh4IDPKZH8M7fQiMHSww==",
+  "success": true,
+  "projectFilePath": "/home/catalin/Documents/TAP/tap-tema3-codebase/Lab4Web/Lab4Web.csproj",
+  "expectedPackageFiles": [
+    "/home/catalin/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "/home/catalin/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/home/catalin/.nuget/packages/swashbuckle.aspnetcore/6.4.0/swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "/home/catalin/.nuget/packages/swashbuckle.aspnetcore.swagger/6.4.0/swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "/home/catalin/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.4.0/swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "/home/catalin/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.4.0/swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
