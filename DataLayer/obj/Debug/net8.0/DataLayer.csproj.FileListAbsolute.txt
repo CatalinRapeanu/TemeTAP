@@ -1,0 +1,15 @@
+/home/catalin/Documents/TAP/Tema4/tap-lab5-codebase/DataLayer/bin/Debug/net8.0/DataLayer.deps.json
+/home/catalin/Documents/TAP/Tema4/tap-lab5-codebase/DataLayer/bin/Debug/net8.0/DataLayer.runtimeconfig.json
+/home/catalin/Documents/TAP/Tema4/tap-lab5-codebase/DataLayer/bin/Debug/net8.0/DataLayer.dll
+/home/catalin/Documents/TAP/Tema4/tap-lab5-codebase/DataLayer/bin/Debug/net8.0/DataLayer.pdb
+/home/catalin/Documents/TAP/Tema4/tap-lab5-codebase/DataLayer/obj/Debug/net8.0/DataLayer.csproj.AssemblyReference.cache
+/home/catalin/Documents/TAP/Tema4/tap-lab5-codebase/DataLayer/obj/Debug/net8.0/DataLayer.GeneratedMSBuildEditorConfig.editorconfig
+/home/catalin/Documents/TAP/Tema4/tap-lab5-codebase/DataLayer/obj/Debug/net8.0/DataLayer.AssemblyInfoInputs.cache
+/home/catalin/Documents/TAP/Tema4/tap-lab5-codebase/DataLayer/obj/Debug/net8.0/DataLayer.AssemblyInfo.cs
+/home/catalin/Documents/TAP/Tema4/tap-lab5-codebase/DataLayer/obj/Debug/net8.0/DataLayer.csproj.CoreCompileInputs.cache
+/home/catalin/Documents/TAP/Tema4/tap-lab5-codebase/DataLayer/obj/Debug/net8.0/DataLayer.sourcelink.json
+/home/catalin/Documents/TAP/Tema4/tap-lab5-codebase/DataLayer/obj/Debug/net8.0/DataLayer.dll
+/home/catalin/Documents/TAP/Tema4/tap-lab5-codebase/DataLayer/obj/Debug/net8.0/refint/DataLayer.dll
+/home/catalin/Documents/TAP/Tema4/tap-lab5-codebase/DataLayer/obj/Debug/net8.0/DataLayer.pdb
+/home/catalin/Documents/TAP/Tema4/tap-lab5-codebase/DataLayer/obj/Debug/net8.0/DataLayer.genruntimeconfig.cache
+/home/catalin/Documents/TAP/Tema4/tap-lab5-codebase/DataLayer/obj/Debug/net8.0/ref/DataLayer.dll
